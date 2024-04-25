@@ -91,4 +91,5 @@ endmodule
 ![de2](https://github.com/VincyJovitha01/study-of-basic-gates/assets/147121113/f06035fa-91f1-40d2-9380-99315741f945)
 
 **Result:**
+    
     Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
